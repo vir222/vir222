@@ -1,9 +1,9 @@
-# Hi, I'm Vir Vaidya 👋
+# Hi, I'm Vir Vaidya 
 
 M.S. Computer Engineering @ Rutgers University (4.0 GPA)  
 Specializing in Machine Learning, Adversarial AI, and Full-Stack Applications
 
-Currently finishing my Master's and actively looking for entry-level **ML Engineer** and **Software Engineer** roles.
+Master's Graduate and actively looking for entry-level **ML Engineer** and **Software Engineer** roles.
 
 ---
 
